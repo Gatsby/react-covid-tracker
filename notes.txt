@@ -1,0 +1,14 @@
+// Created via npx instead of npm
+1. npx create-react-app ./
+
+2. Deleted default src folder and created new folders/files project structure. This includes CSS modules that scope only to each specific JSX component.
+
+// Installed Axios, React Charts, React Countup, and Classnames
+3. npm install --save axios react-chartjs-2 react-countup classnames
+
+// Installed Material UI
+4. npm install --save @material-ui/core
+
+// Installed Chart.JS
+5. npm install --save chart.js
+
